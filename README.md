@@ -90,8 +90,3 @@ Tuples are ordered, immutable collections. They are useful for fixed records and
 - **Tuples** store ordered data that should remain fixed.
 
 These fundamentals prepare students for Python OOP, Django, REST APIs, and AI-powered applications.
-
----
-
-**PSEB DEPLOY: Python, Django & AI Bootcamp**  
-Instructor: [Waleed Shehbaz](https://github.com/waleedshehbazdev)
